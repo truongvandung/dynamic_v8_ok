@@ -1,6 +1,6 @@
 {
-    'name': 'Dynamic ListView Advance Odoo8',
-    'summary': 'Change The Odoo List view On the fly without any technical knowledge',
+    'name': 'SOUND OK',
+    'summary': '',
     'version': '1.0',
     'category': 'Web',
     'description': """
