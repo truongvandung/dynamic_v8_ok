@@ -6,7 +6,7 @@
     'description': """
         
     """,
-    'author': "truongdung.vd@gmail.com",
+    'author': "tyt",
     'depends': ['web'],
     'data': ['views/templates.xml',
              'security/show_fields_security.xml',
