@@ -18,6 +18,6 @@
     'application': False,
     'qweb': ['static/src/xml/base.xml'],
     'images': [
-        'static/description/module_image.png',
+        
     ],
 }
