@@ -1,10 +1,10 @@
 {
-    'name': 'Dynamic ListView Advance Odoo8',
+    'name': 'ERD DE',
     'summary': 'Change The Odoo List view On the fly without any technical knowledge',
     'version': '1.0',
     'category': 'Web',
     'description': """
-        Dynamic ListView Advance Odoo8
+        
     """,
     'author': "truongdung.vd@gmail.com",
     'depends': ['web'],
